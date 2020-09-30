@@ -129,7 +129,7 @@ def main(page, header, save_path):
 
 if __name__ == '__main__':
     ##########  input parameter  ##########
-    date = '19700101' # 专属测试日期
+    date = '19700101' 
     
     
     # set store file structure
