@@ -3,6 +3,7 @@
 本项目获取好大夫在线（www.haodf.com ）中的相关信息，仅供学习交流使用，如果侵权联系删除。  
 This project obtains the relevant information in Haodf (www.haodf.com), only for learning and communication. If the infringement contact is deleted.
 ## 2. Introduction
+**进入README查看字段更清晰**
 名称|命名|爬取字段|示例链接
 :---|:--|:------|:--------
 爬取冠心病主界面|	doctor_summary_page.py|姓名<br/>推荐热度<br/>两年内该疾病的票<br/>该疾病总票<br/>近两周回复|	https://www.haodf.com/jibing/guanxinbing/daifu_all_all_all_all_all_all_1.htm
